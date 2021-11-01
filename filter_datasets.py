@@ -16,6 +16,9 @@ for dl in info:
 
 #Get a list of all datasets
 def getAllDts(base_url = "massive.ucsd.edu/"):
+    """
+    Search on all datasets from massIVE
+    """
     datasets_url = 'https://' + base_url + '/ProteoSAFe/datasets_json.jsp'
     json_obj = json.loads(requests.get(datasets_url).text)
     return json_obj["datasets"]
