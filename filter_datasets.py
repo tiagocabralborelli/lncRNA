@@ -123,3 +123,9 @@ def findmztab(identifier):
     if len(mztab):
         return {identifier: mztab}
 
+def getmztab():
+    #Função para baixar e abrir todos os arquivos mztabe de um projeto
+    pass
+def pride_summary():
+    #Organiza os dados do pride
+    pass
