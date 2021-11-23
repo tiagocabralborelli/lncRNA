@@ -5,6 +5,7 @@ from Bio import Entrez
 import re
 import ftplib
 import ppx
+import datetime
 
 '''
 from bs4 import BeautifulSoup
@@ -123,9 +124,17 @@ def findmztab(identifier):
     if len(mztab):
         return {identifier: mztab}
 
-def getmztab():
+def get_mztabs(pride_dataset:dict) -> dict:
     #Função para baixar e abrir todos os arquivos mztabe de um projeto
-    pass
+    project_dict_map = {}
+    for projects,values in pride_dataset.items():
+        try:
+            mztabs_from_projects = findmztab(projects)
+            if mztabs_from_projects != None:
+                project_dict_map[projects] = mztabs_from_projects[projects]
+        except:
+            print(f"ERROR:{datetime.datetime.now().strftime('%d/%m/%Y %H:%M')} - {projects} \n")
+    return project_dict_map
 def pride_summary():
     #Organiza os dados do pride
     pass
