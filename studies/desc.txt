@@ -1,0 +1,1087 @@
+Eukaryotic translation initiation factor 3 subunit M OS=Coffea canephora GN=GSCOC_T00039693001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026435001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00019858001 PE=4 SV=1
+ATP-dependent Clp protease proteolytic subunit OS=Coffea canephora GN=GSCOC_T00032983001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032341001 PE=4 SV=1
+Glucose-6-phosphate isomerase OS=Coffea canephora GN=GSCOC_T00033759001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00019991001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00019983001 PE=4 SV=1
+Fructose-bisphosphate aldolase OS=Coffea canephora GN=GSCOC_T00032750001 PE=3 SV=1
+Peptidyl-prolyl cis-trans isomerase OS=Coffea canephora GN=GSCOC_T00028417001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_98 OS=Coffea canephora GN=GSCOC_T00043088001 PE=4 SV=1
+S-adenosylmethionine synthase OS=Coffea canephora GN=GSCOC_T00023748001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016278001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_566 OS=Coffea canephora GN=GSCOC_T00000145001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_566 OS=Coffea canephora GN=GSCOC_T00000147001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_112 OS=Coffea canephora GN=GSCOC_T00016926001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_566 OS=Coffea canephora GN=GSCOC_T00000140001 PE=3 SV=1
+Importin subunit alpha OS=Coffea canephora GN=GSCOC_T00000724001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1220 OS=Coffea canephora GN=GSCOC_T00004885001 PE=4 SV=1
+S-(hydroxymethyl)glutathione dehydrogenase OS=Coffea canephora GN=GSCOC_T00016296001 PE=3 SV=1
+A0A068UK97|A0A068UK97_COFCA-R
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00013857001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00025650001 PE=3 SV=1
+Aspartate aminotransferase OS=Coffea canephora GN=GSCOC_T00005567001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_21 OS=Coffea canephora GN=GSCOC_T00023113001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_230 OS=Coffea canephora GN=GSCOC_T00013587001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_230 OS=Coffea canephora GN=GSCOC_T00013593001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00036890001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_783 OS=Coffea canephora GN=GSCOC_T00008836001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_53 OS=Coffea canephora GN=GSCOC_T00033412001 PE=4 SV=1
+4-hydroxy-4-methyl-2-oxoglutarate aldolase OS=Coffea canephora GN=GSCOC_T00022026001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_62 OS=Coffea canephora GN=GSCOC_T00035405001 PE=4 SV=1
+Malic enzyme OS=Coffea canephora GN=GSCOC_T00041788001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00020087001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041661001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039336001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022039001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_45 OS=Coffea canephora GN=GSCOC_T00031343001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021282001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_31 OS=Coffea canephora GN=GSCOC_T00027007001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00036485001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_968 OS=Coffea canephora GN=GSCOC_T00003073001 PE=4 SV=1
+Succinyl-CoA ligase subunit beta OS=Coffea canephora GN=GSCOC_T00016251001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016344001 PE=3 SV=1
+Purple acid phosphatase OS=Coffea canephora GN=GSCOC_T00014220001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_24 OS=Coffea canephora GN=GSCOC_T00024234001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_26 OS=Coffea canephora GN=GSCOC_T00024731001 PE=3 SV=1
+Glyceraldehyde-3-phosphate dehydrogenase OS=Coffea canephora GN=GSCOC_T00024491001 PE=3 SV=1
+Glyceraldehyde-3-phosphate dehydrogenase OS=Coffea canephora GN=GSCOC_T00004222001 PE=3 SV=1
+Nucleoside diphosphate kinase OS=Coffea canephora GN=GSCOC_T00028782001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_128 OS=Coffea canephora GN=GSCOC_T00018441001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00025961001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022706001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_40 OS=Coffea canephora GN=CPI-2 PE=2 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041843001 PE=4 SV=1
+Eukaryotic translation initiation factor 3 subunit F OS=Coffea canephora GN=GSCOC_T00039234001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_124 OS=Coffea canephora GN=GSCOC_T00018260001 PE=3 SV=1
+Hexokinase OS=Coffea canephora GN=GSCOC_T00021923001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016414001 PE=4 SV=1
+Spermidine synthase OS=Coffea arabica PE=2 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032046001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_12 OS=Coffea canephora GN=GSCOC_T00017868001 PE=4 SV=1
+Glucose-6-phosphate 1-dehydrogenase OS=Coffea canephora GN=GSCOC_T00038287001 PE=3 SV=1
+60S ribosomal protein L13 OS=Coffea canephora GN=GSCOC_T00008322001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041452001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016460001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_27 OS=Coffea canephora GN=GSCOC_T00025208001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00020185001 PE=4 SV=1
+Glycosyltransferase OS=Coffea canephora GN=GSCOC_T00014494001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_48 OS=Coffea canephora GN=GSCOC_T00031782001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014188001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_921 OS=Coffea canephora GN=GSCOC_T00011267001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_92 OS=Coffea canephora GN=GSCOC_T00042369001 PE=4 SV=1
+Starch synthase, chloroplastic/amyloplastic OS=Coffea canephora GN=GSCOC_T00039572001 PE=3 SV=1
+Acetyltransferase component of pyruvate dehydrogenase complex OS=Coffea canephora GN=GSCOC_T00021824001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022030001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_91 OS=Coffea canephora GN=GSCOC_T00042119001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_219 OS=Coffea canephora GN=GSCOC_T00011793001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_30 OS=Coffea canephora GN=GSCOC_T00026809001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022046001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_35 OS=Coffea canephora GN=GSCOC_T00028049001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00040169001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_44 OS=Coffea canephora GN=GSCOC_T00030977001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00037009001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_6 OS=Coffea canephora GN=GSCOC_T00034278001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022111001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_74 OS=Coffea canephora GN=GSCOC_T00038251001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_135 OS=Coffea canephora GN=GSCOC_T00019209001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1009 OS=Coffea canephora GN=GSCOC_T00008382001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00020266001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_44 OS=Coffea canephora GN=GSCOC_T00030979001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_24 OS=Coffea canephora GN=GSCOC_T00024152001 PE=3 SV=1
+Small nuclear ribonucleoprotein F OS=Coffea canephora GN=GSCOC_T00029512001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022145001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022535001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_120 OS=Coffea canephora GN=GSCOC_T00018050001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_31 OS=Coffea canephora GN=GSCOC_T00027076001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7181 (Fragment) OS=Coffea canephora GN=GSCOC_T00004172001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_38 OS=Coffea canephora GN=GSCOC_T00028708001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_35 OS=Coffea canephora GN=GSCOC_T00027723001 PE=3 SV=1
+Cytochrome b-c1 complex subunit 7 OS=Coffea canephora GN=GSCOC_T00019524001 PE=3 SV=1
+Fructose-bisphosphate aldolase OS=Coffea canephora GN=GSCOC_T00043076001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_52 OS=Coffea canephora GN=GSCOC_T00033200001 PE=3 SV=1
+Histone H4 OS=Coffea canephora GN=GSCOC_T00023550001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00037114001 PE=4 SV=1
+Uncharacterized protein OS=Coffea canephora GN=111O18.8 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00040326001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_44 OS=Coffea canephora GN=GSCOC_T00030999001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041477001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022681001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029858001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029734001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_22 OS=Coffea canephora GN=GSCOC_T00023649001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00015118001 PE=4 SV=1
+Pectinesterase OS=Coffea canephora GN=GSCOC_T00029392001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_46 OS=Coffea canephora GN=GSCOC_T00031512001 PE=4 SV=1
+Pyruvate kinase OS=Coffea canephora GN=GSCOC_T00019472001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_148 OS=Coffea canephora GN=GSCOC_T00000655001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00025805001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014491001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_22 OS=Coffea canephora GN=GSCOC_T00023608001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00037002001 PE=4 SV=1
+Superoxide dismutase OS=Coffea canephora GN=GSCOC_T00039055001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_44 OS=Coffea canephora GN=GSCOC_T00030980001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_17 OS=Coffea canephora GN=GSCOC_T00020824001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2984 OS=Coffea canephora GN=GSCOC_T00006245001 PE=4 SV=1
+Proteasome subunit beta type OS=Coffea canephora GN=GSCOC_T00030015001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021202001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039545001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_6 OS=Coffea canephora GN=GSCOC_T00034841001 PE=4 SV=1
+Proteasome subunit alpha type OS=Coffea canephora GN=GSCOC_T00040677001 PE=3 SV=1
+Histone H3 OS=Coffea canephora GN=GSCOC_T00024694001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_36 OS=Coffea canephora GN=GSCOC_T00028105001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_40 OS=Coffea canephora GN=GSCOC_T00030177001 PE=3 SV=1
+Probable bifunctional methylthioribulose-1-phosphate dehydratase/enolase-phosphatase E1 OS=Coffea canephora GN=GSCOC_T00021252001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_61 OS=Coffea canephora GN=GSCOC_T00035360001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_98 OS=Coffea canephora GN=GSCOC_T00043134001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00020327001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_26 OS=Coffea canephora GN=GSCOC_T00024699001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1303 OS=Coffea canephora GN=GSCOC_T00000778001 PE=3 SV=1
+Isocitrate dehydrogenase [NAD] subunit, mitochondrial OS=Coffea canephora GN=GSCOC_T00023702001 PE=3 SV=1
+Proteasome subunit beta type OS=Coffea canephora GN=GSCOC_T00038135001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=sus1 PE=4 SV=1
+Sucrose synthase OS=Coffea canephora GN=SS2 PE=2 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_98 OS=Coffea canephora GN=GSCOC_T00043004001 PE=4 SV=1
+Glycosyltransferase OS=Coffea canephora GN=GSCOC_T00022914001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_62 OS=Coffea canephora GN=GSCOC_T00035682001 PE=4 SV=1
+3-phosphoshikimate 1-carboxyvinyltransferase OS=Coffea canephora GN=GSCOC_T00015114001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_31 OS=Coffea canephora GN=GSCOC_T00027064001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00019912001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00015968001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_144 OS=Coffea canephora GN=GSCOC_T00005020001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00036701001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_237 OS=Coffea canephora GN=GSCOC_T00007403001 PE=4 SV=1
+Pyruvate kinase OS=Coffea canephora GN=GSCOC_T00026170001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_333 OS=Coffea canephora GN=GSCOC_T00000206001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_96 OS=Coffea canephora GN=GSCOC_T00042873001 PE=4 SV=1
+NADH-cytochrome b5 reductase OS=Coffea canephora GN=GSCOC_T00031088001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_35 OS=Coffea canephora GN=GSCOC_T00027855001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_81 OS=Coffea canephora GN=GSCOC_T00040636001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032907001 PE=3 SV=1
+Isocitrate dehydrogenase [NADP] OS=Coffea canephora GN=GSCOC_T00036823001 PE=3 SV=1
+Alpha-mannosidase OS=Coffea canephora GN=GSCOC_T00022362001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_35 OS=Coffea canephora GN=GSCOC_T00028010001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032863001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014816001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029427001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041566001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_16 OS=Coffea canephora GN=GSCOC_T00020736001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016328001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_471 OS=Coffea canephora GN=GSCOC_T00012931001 PE=4 SV=1
+Citrate synthase OS=Coffea canephora GN=GSCOC_T00002665001 PE=3 SV=1
+Proteasome subunit beta type OS=Coffea canephora GN=GSCOC_T00036095001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_27 OS=Coffea canephora GN=GSCOC_T00024967001 PE=3 SV=1
+Proteasome subunit beta type OS=Coffea canephora GN=GSCOC_T00031922001 PE=3 SV=1
+Glyceraldehyde-3-phosphate dehydrogenase OS=Coffea canephora GN=GSCOC_T00038191001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_40 OS=Coffea canephora GN=GSCOC_T00030131001 PE=3 SV=1
+Pectinesterase OS=Coffea canephora GN=GSCOC_T00026690001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1911 OS=Coffea canephora GN=GSCOC_T00006992001 PE=4 SV=1
+Pyruvate kinase OS=Coffea canephora GN=GSCOC_T00029540001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00021678001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_10 OS=Coffea canephora GN=GSCOC_T00015260001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_6 OS=Coffea canephora GN=GSCOC_T00034430001 PE=3 SV=1
+Ferredoxin--NADP reductase OS=Coffea canephora GN=GSCOC_T00003793001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_323 OS=Coffea canephora GN=GSCOC_T00001028001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_166 OS=Coffea canephora GN=GSCOC_T00011435001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_12 OS=Coffea canephora GN=GSCOC_T00017588001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_67 OS=Coffea canephora GN=GSCOC_T00036176001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_49 OS=Coffea canephora GN=GSCOC_T00031897001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022350001 PE=3 SV=1
+Ferritin OS=Coffea canephora GN=GSCOC_T00023292001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_555 OS=Coffea canephora GN=GSCOC_T00006977001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_101 OS=Coffea canephora GN=GSCOC_T00015473001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_299 OS=Coffea canephora GN=GSCOC_T00005831001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016244001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00036770001 PE=4 SV=1
+Proteasome subunit alpha type OS=Coffea canephora GN=GSCOC_T00039763001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032403001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_46 OS=Coffea canephora GN=GSCOC_T00031557001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_87 OS=Coffea canephora GN=GSCOC_T00041063001 PE=3 SV=1
+Phosphoglycerate kinase OS=Coffea canephora GN=GSCOC_T00019469001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00015068001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_12 OS=Coffea canephora GN=GSCOC_T00017967001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_14 OS=Coffea canephora GN=GSCOC_T00019594001 PE=3 SV=1
+Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial OS=Coffea canephora GN=GSCOC_T00037240001 PE=3 SV=1
+Triosephosphate isomerase OS=Coffea canephora GN=GSCOC_T00029890001 PE=3 SV=1
+Patatin OS=Coffea canephora GN=GSCOC_T00033092001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1220 OS=Coffea canephora GN=GSCOC_T00004884001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_140 OS=Coffea canephora GN=GSCOC_T00005301001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_55 OS=Coffea canephora GN=GSCOC_T00033620001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032177001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_45 OS=Coffea canephora GN=GSCOC_T00031109001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_43 OS=Coffea canephora GN=GSCOC_T00030841001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_112 OS=Coffea canephora GN=GSCOC_T00016786001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_221 OS=Coffea canephora GN=GSCOC_T00012024001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_6 OS=Coffea canephora GN=GSCOC_T00034780001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_135 OS=Coffea canephora GN=GSCOC_T00019184001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026110001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1303 OS=Coffea canephora GN=GSCOC_T00000781001 PE=4 SV=1
+Glutamine synthetase OS=Coffea canephora GN=GSCOC_T00022371001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00020321001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014698001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_55 OS=Coffea canephora GN=GSCOC_T00033824001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00019837001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00020069001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041519001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032186001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_53 OS=Coffea canephora GN=GSCOC_T00033357001 PE=4 SV=1
+Profilin OS=Coffea canephora GN=GSCOC_T00026955001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029952001 PE=3 SV=1
+Aldose 1-epimerase OS=Coffea canephora GN=GSCOC_T00035856001 PE=3 SV=1
+40S ribosomal protein SA OS=Coffea canephora GN=GSCOC_T00022238001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_36 OS=Coffea canephora GN=GSCOC_T00028206001 PE=4 SV=1
+Histone H2B OS=Coffea canephora GN=GSCOC_T00023569001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_46 OS=Coffea canephora GN=GSCOC_T00031477001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039703001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026314001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_36 OS=Coffea canephora GN=GSCOC_T00028473001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00019809001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00019801001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_131 OS=Coffea canephora GN=GSCOC_T00018907001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029145001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_22 OS=Coffea canephora GN=GSCOC_T00023618001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_72 OS=Coffea canephora GN=GSCOC_T00037754001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_45 OS=Coffea canephora GN=GSCOC_T00031074001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_28 OS=Coffea canephora GN=GSCOC_T00025360001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_74 OS=Coffea canephora GN=GSCOC_T00038176001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_30 OS=Coffea canephora GN=GSCOC_T00026776001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_28 OS=Coffea canephora GN=GSCOC_T00025354001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_36 OS=Coffea canephora GN=GSCOC_T00028478001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021330001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021078001 PE=4 SV=1
+Aldose 1-epimerase OS=Coffea canephora GN=GSCOC_T00022401001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_44 OS=Coffea canephora GN=GSCOC_T00030984001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_27 OS=Coffea canephora GN=GSCOC_T00025133001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00019788001 PE=4 SV=1
+40S ribosomal protein S21 OS=Coffea canephora GN=GSCOC_T00025830001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1353 OS=Coffea canephora GN=GSCOC_T00003021001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_350 OS=Coffea canephora GN=GSCOC_T00007319001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_44 OS=Coffea canephora GN=GSCOC_T00030957001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1937 OS=Coffea canephora GN=GSCOC_T00009893001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014240001 PE=3 SV=1
+Glutamine synthetase OS=Coffea canephora GN=GSCOC_T00036762001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_89 OS=Coffea canephora GN=GSCOC_T00041176001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016150001 PE=3 SV=1
+Dihydrolipoyl dehydrogenase OS=Coffea canephora GN=GSCOC_T00025624001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039550001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_26 OS=Coffea canephora GN=GSCOC_T00024903001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00015916001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_12 OS=Coffea canephora GN=GSCOC_T00017424001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014827001 PE=4 SV=1
+Annexin OS=Coffea canephora GN=GSCOC_T00020551001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_26 OS=Coffea canephora GN=GSCOC_T00024886001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_183 OS=Coffea canephora GN=GSCOC_T00013180001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_22 OS=Coffea canephora GN=GSCOC_T00023509001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_44 OS=Coffea canephora GN=GSCOC_T00031063001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022422001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_16 OS=Coffea canephora GN=GSCOC_T00020689001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1482 OS=Coffea canephora GN=GSCOC_T00010953001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11819 (Fragment) OS=Coffea canephora GN=GSCOC_T00004229001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_13 OS=Coffea canephora GN=GSCOC_T00018734001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_71 OS=Coffea canephora GN=GSCOC_T00037556001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_70 OS=Coffea canephora GN=GSCOC_T00037290001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_36 OS=Coffea canephora GN=GSCOC_T00028345001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_71 OS=Coffea canephora GN=GSCOC_T00037436001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039645001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_232 OS=Coffea canephora GN=GSCOC_T00004728001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_43 OS=Coffea canephora GN=GSCOC_T00030801001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_419 OS=Coffea canephora GN=GSCOC_T00004593001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_41 OS=Coffea canephora GN=GSCOC_T00030254001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_26 OS=Coffea canephora GN=GSCOC_T00024930001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00036950001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00020071001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_67 OS=Coffea canephora GN=GSCOC_T00036097001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00025709001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_40 OS=Coffea canephora GN=GSCOC_T00030179001 PE=3 SV=1
+Eukaryotic translation initiation factor 5A OS=Coffea canephora GN=GSCOC_T00030887001 PE=3 SV=1
+Delta-aminolevulinic acid dehydratase OS=Coffea canephora GN=GSCOC_T00005441001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032044001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_22 OS=Coffea canephora GN=GSCOC_T00023505001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_46 OS=Coffea canephora GN=GSCOC_T00031560001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_46 OS=Coffea canephora GN=GSCOC_T00031559001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3399 OS=Coffea canephora GN=GSCOC_T00012886001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_68 OS=Coffea canephora GN=GSCOC_T00036306001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_68 OS=Coffea canephora GN=GSCOC_T00036304001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00040187001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2349 OS=Coffea canephora GN=GSCOC_T00012446001 PE=4 SV=1
+Superoxide dismutase OS=Coffea canephora GN=GSCOC_T00038984001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026213001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014670001 PE=4 SV=1
+Glycosyltransferase OS=Coffea canephora GN=GSCOC_T00012876001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_12 OS=Coffea canephora GN=GSCOC_T00017673001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039837001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032887001 PE=4 SV=1
+Chorismate synthase OS=Coffea canephora GN=GSCOC_T00017731001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00040217001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_36 OS=Coffea canephora GN=GSCOC_T00028444001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_24 OS=Coffea canephora GN=GSCOC_T00024160001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026374001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00020302001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_36 OS=Coffea canephora GN=GSCOC_T00028091001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_145 OS=Coffea canephora GN=GSCOC_T00011168001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_24 OS=Coffea canephora GN=GSCOC_T00023897001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_62 OS=Coffea canephora GN=GSCOC_T00035560001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029211001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_36 OS=Coffea canephora GN=GSCOC_T00028398001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_105 OS=Coffea canephora GN=GSCOC_T00015742001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00020116001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032248001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_24 OS=Coffea canephora GN=GSCOC_T00023971001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_24 OS=Coffea canephora GN=GSCOC_T00023970001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8624 (Fragment) OS=Coffea canephora GN=GSCOC_T00007873001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_24 OS=Coffea canephora GN=GSCOC_T00023958001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_24 OS=Coffea canephora GN=GSCOC_T00023968001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1827 OS=Coffea canephora GN=GSCOC_T00010625001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_35 OS=Coffea canephora GN=GSCOC_T00028017001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039755001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_76 OS=Coffea canephora GN=GSCOC_T00038706001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_144 OS=Coffea canephora GN=GSCOC_T00005036001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_12 OS=Coffea canephora GN=GSCOC_T00017810001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_31 OS=Coffea canephora GN=GSCOC_T00026914001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_41 OS=Coffea canephora GN=GSCOC_T00030510001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_80 OS=Coffea canephora GN=GSCOC_T00040414001 PE=4 SV=1
+Lipoxygenase OS=Coffea canephora GN=GSCOC_T00015359001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041739001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_44 OS=Coffea canephora GN=GSCOC_T00031011001 PE=3 SV=1
+Proteasome subunit beta type OS=Coffea canephora GN=GSCOC_T00003891001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_22 OS=Coffea canephora GN=GSCOC_T00023422001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014010001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_112 OS=Coffea canephora GN=GSCOC_T00016799001 PE=4 SV=1
+Lactoylglutathione lyase OS=Coffea canephora GN=GSCOC_T00024146001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022364001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11180 OS=Coffea canephora GN=GSCOC_T00012667001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_24 OS=Coffea canephora GN=GSCOC_T00024178001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00021791001 PE=3 SV=1
+Lipoxygenase (Fragment) OS=Coffea canephora GN=GSCOC_T00004674001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00037198001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00037124001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_101 OS=Coffea canephora GN=GSCOC_T00015544001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_81 OS=Coffea canephora GN=GSCOC_T00040672001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_94 OS=Coffea canephora GN=GSCOC_T00042533001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00025613001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_34 OS=Coffea canephora GN=GSCOC_T00027544001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_35 OS=Coffea canephora GN=GSCOC_T00027666001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_12 OS=Coffea canephora GN=GSCOC_T00017589001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_34 OS=Coffea canephora GN=GSCOC_T00027542001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021084001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_34 OS=Coffea canephora GN=GSCOC_T00027528001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_76 OS=Coffea canephora GN=GSCOC_T00038582001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_63 OS=Coffea canephora GN=GSCOC_T00035822001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_116 OS=Coffea canephora GN=GSCOC_T00017137001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_41 OS=Coffea canephora GN=GSCOC_T00030205001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_36 OS=Coffea canephora GN=GSCOC_T00028209001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_96 OS=Coffea canephora GN=GSCOC_T00042781001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022314001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_96 OS=Coffea canephora GN=GSCOC_T00042815001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00040283001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_6901 OS=Coffea canephora GN=GSCOC_T00005975001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021525001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039905001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022453001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039400001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00037197001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00040103001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00021697001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_39 OS=Coffea canephora GN=GSCOC_T00029001001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032296001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016234001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_304 OS=Coffea canephora GN=GSCOC_T00007408001 PE=4 SV=1
+Serine hydroxymethyltransferase OS=Coffea canephora GN=GSCOC_T00033269001 PE=3 SV=1
+Non-lysosomal glucosylceramidase OS=Coffea canephora GN=GSCOC_T00015035001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_26 OS=Coffea canephora GN=GSCOC_T00024907001 PE=3 SV=1
+Glutathione peroxidase OS=Coffea canephora GN=GSCOC_T00030202001 PE=3 SV=1
+Annexin OS=Coffea canephora GN=GSCOC_T00036498001 PE=3 SV=1
+UDP-glucose 6-dehydrogenase OS=Coffea canephora GN=GSCOC_T00039649001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_120 OS=Coffea canephora GN=GSCOC_T00018006001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_144 OS=Coffea canephora GN=GSCOC_T00004914001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_47 OS=Coffea canephora GN=GSCOC_T00031588001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8776 OS=Coffea canephora GN=GSCOC_T00011704001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_47 OS=Coffea canephora GN=GSCOC_T00031577001 PE=3 SV=1
+ATP synthase subunit beta OS=Coffea canephora GN=GSCOC_T00032773001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_12 OS=Coffea canephora GN=GSCOC_T00017408001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026145001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_245 OS=Coffea canephora GN=GSCOC_T00005519001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_41 OS=Coffea canephora GN=GSCOC_T00030208001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021336001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021499001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_48 OS=Coffea canephora GN=GSCOC_T00031724001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3273 OS=Coffea canephora GN=GSCOC_T00001144001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1455 OS=Coffea canephora GN=GSCOC_T00006215001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_168 OS=Coffea canephora GN=GSCOC_T00011081001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_27 OS=Coffea canephora GN=GSCOC_T00025099001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_55 OS=Coffea canephora GN=GSCOC_T00033754001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_83 OS=Coffea canephora GN=GSCOC_T00040784001 PE=3 SV=1
+6-phosphogluconate dehydrogenase, decarboxylating OS=Coffea canephora GN=GSCOC_T00035499001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_12 OS=Coffea canephora GN=GSCOC_T00017566001 PE=4 SV=1
+Glyceraldehyde-3-phosphate dehydrogenase OS=Coffea canephora GN=GSCOC_T00038554001 PE=3 SV=1
+Aspartate aminotransferase OS=Coffea canephora GN=GSCOC_T00041857001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_39 OS=Coffea canephora GN=GSCOC_T00028908001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_718 OS=Coffea canephora GN=GSCOC_T00008935001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_294 OS=Coffea canephora GN=GSCOC_T00005863001 PE=4 SV=1
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta, chloroplastic OS=Coffea arabica GN=accD PE=3 SV=2
+Acetyl-CoA carboxylase beta subunit (Fragment) OS=Coffea canephora GN=accD PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00040155001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00025833001 PE=4 SV=1
+40S ribosomal protein S4 OS=Coffea canephora GN=GSCOC_T00023293001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026576001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_707 OS=Coffea canephora GN=GSCOC_T00005792001 PE=4 SV=1
+Histone H2A OS=Coffea canephora GN=GSCOC_T00021102001 PE=3 SV=1
+Eukaryotic translation initiation factor 5A OS=Coffea canephora GN=GSCOC_T00032315001 PE=3 SV=1
+Glycosyltransferase OS=Coffea canephora GN=GSCOC_T00019058001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021259001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014094001 PE=4 SV=1
+Small ubiquitin-related modifier OS=Coffea canephora GN=GSCOC_T00033474001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014759001 PE=4 SV=1
+Glycerol-3-phosphate dehydrogenase OS=Coffea canephora GN=GSCOC_T00029472001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_6 OS=Coffea canephora GN=GSCOC_T00034611001 PE=4 SV=1
+Ubiquitin carboxyl-terminal hydrolase OS=Coffea canephora GN=GSCOC_T00029688001 PE=3 SV=1
+Ubiquitin carboxyl-terminal hydrolase OS=Coffea canephora GN=GSCOC_T00031306001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_12 OS=Coffea canephora GN=GSCOC_T00017760001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014460001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5187 OS=Coffea canephora GN=GSCOC_T00001585001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_16 OS=Coffea canephora GN=GSCOC_T00020461001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016028001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016076001 PE=4 SV=1
+Phosphoinositide phospholipase C OS=Coffea canephora GN=GSCOC_T00028423001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00037067001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022325001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016557001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_88 OS=Coffea canephora GN=GSCOC_T00041159001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_960 OS=Coffea canephora GN=GSCOC_T00001468001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00021890001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_44 OS=Coffea canephora GN=GSCOC_T00030975001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_13 OS=Coffea canephora GN=GSCOC_T00018780001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_55 OS=Coffea canephora GN=GSCOC_T00033829001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_46 OS=Coffea canephora GN=GSCOC_T00031553001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_36 OS=Coffea canephora GN=GSCOC_T00028168001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1918 OS=Coffea canephora GN=GSCOC_T00008113001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_22 OS=Coffea canephora GN=GSCOC_T00023572001 PE=4 SV=1
+Pectinesterase OS=Coffea canephora GN=GSCOC_T00004619001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029541001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021577001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_94 OS=Coffea canephora GN=GSCOC_T00042671001 PE=4 SV=1
+Histone H2A OS=Coffea canephora GN=GSCOC_T00005157001 PE=3 SV=1
+Malate dehydrogenase OS=Coffea canephora GN=GSCOC_T00021323001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_30 OS=Coffea canephora GN=GSCOC_T00026800001 PE=4 SV=1
+Profilin OS=Coffea canephora GN=GSCOC_T00041749001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_43 OS=Coffea canephora GN=GSCOC_T00030867001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_32 OS=Coffea canephora GN=GSCOC_T00027214001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_32 OS=Coffea canephora GN=GSCOC_T00027222001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_32 OS=Coffea canephora GN=GSCOC_T00027221001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_198 OS=Coffea canephora GN=GSCOC_T00008627001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00020291001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_45 OS=Coffea canephora GN=GSCOC_T00031398001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00020145001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_22 OS=Coffea canephora GN=GSCOC_T00023332001 PE=3 SV=1
+6-phosphogluconate dehydrogenase, decarboxylating OS=Coffea canephora GN=GSCOC_T00032471001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016459001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_20 OS=Coffea canephora GN=GSCOC_T00022881001 PE=3 SV=1
+T-complex protein 1 subunit delta OS=Coffea canephora GN=GSCOC_T00022472001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022803001 PE=4 SV=1
+Proteasome subunit alpha type OS=Coffea canephora GN=GSCOC_T00021698001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00036723001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_74 OS=Coffea canephora GN=GSCOC_T00038125001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_47 OS=Coffea canephora GN=GSCOC_T00031574001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_913 OS=Coffea canephora GN=GSCOC_T00000738001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2832 OS=Coffea canephora GN=GSCOC_T00001883001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029792001 PE=4 SV=1
+NADH-cytochrome b5 reductase OS=Coffea canephora GN=GSCOC_T00001553001 PE=3 SV=1
+Peroxidase OS=Coffea canephora GN=GSCOC_T00040013001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_84 OS=Coffea canephora GN=GSCOC_T00040811001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029352001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026540001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022329001 PE=3 SV=1
+Peroxidase OS=Coffea canephora GN=GSCOC_T00014811001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021494001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_10503 OS=Coffea canephora GN=GSCOC_T00004630001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2780 OS=Coffea canephora GN=GSCOC_T00007757001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014245001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_101 OS=Coffea canephora GN=GSCOC_T00015547001 PE=4 SV=1
+Glycosyltransferase OS=Coffea canephora GN=GSCOC_T00042698001 PE=3 SV=1
+Carboxypeptidase OS=Coffea canephora GN=GSCOC_T00029408001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_323 OS=Coffea canephora GN=GSCOC_T00001054001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_24 OS=Coffea canephora GN=GSCOC_T00024014001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_68 OS=Coffea canephora GN=GSCOC_T00036236001 PE=3 SV=1
+Pectinesterase OS=Coffea canephora GN=GSCOC_T00015137001 PE=3 SV=1
+Carboxypeptidase OS=Coffea canephora GN=GSCOC_T00029483001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_112 OS=Coffea canephora GN=GSCOC_T00016766001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_62 OS=Coffea canephora GN=GSCOC_T00035633001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_49 OS=Coffea canephora GN=GSCOC_T00031893001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_101 OS=Coffea canephora GN=GSCOC_T00015455001 PE=3 SV=1
+Glycosyltransferase OS=Coffea canephora GN=GSCOC_T00042697001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_55 OS=Coffea canephora GN=GSCOC_T00033791001 PE=3 SV=1
+Phospholipase D OS=Coffea canephora GN=GSCOC_T00022148001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014231001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_78 OS=Coffea canephora GN=GSCOC_T00039228001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039646001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_74 OS=Coffea canephora GN=GSCOC_T00038198001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_92 OS=Coffea canephora GN=GSCOC_T00042311001 PE=3 SV=1
+Glutamate dehydrogenase OS=Coffea canephora GN=GSCOC_T00010498001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_26 OS=Coffea canephora GN=GSCOC_T00024689001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_41 OS=Coffea canephora GN=GSCOC_T00030389001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1871 OS=Coffea canephora GN=GSCOC_T00005697001 PE=4 SV=1
+Glutathione peroxidase OS=Coffea canephora GN=GSCOC_T00030200001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_45 OS=Coffea canephora GN=GSCOC_T00031388001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016143001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_317 OS=Coffea canephora GN=GSCOC_T00010968001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_245 OS=Coffea canephora GN=GSCOC_T00005516001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016033001 PE=4 SV=1
+6,7-dimethyl-8-ribityllumazine synthase (Fragment) OS=Coffea canephora GN=GSCOC_T00003712001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_172 OS=Coffea canephora GN=GSCOC_T00013192001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_49 OS=Coffea canephora GN=GSCOC_T00031983001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_43 OS=Coffea canephora GN=GSCOC_T00030716001 PE=4 SV=1
+Malic enzyme OS=Coffea canephora GN=GSCOC_T00028711001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1642 OS=Coffea canephora GN=GSCOC_T00008123001 PE=4 SV=1
+Laccase OS=Coffea canephora GN=GSCOC_T00034687001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_41 OS=Coffea canephora GN=GSCOC_T00030391001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00021615001 PE=3 SV=1
+Lipoxygenase OS=Coffea canephora GN=GSCOC_T00013091001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_36 OS=Coffea canephora GN=GSCOC_T00028216001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021300001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8750 (Fragment) OS=Coffea canephora GN=GSCOC_T00003246001 PE=4 SV=1
+Histone H2A OS=Coffea canephora GN=GSCOC_T00023568001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1109 OS=Coffea canephora GN=GSCOC_T00008147001 PE=4 SV=1
+Phosphoserine aminotransferase OS=Coffea canephora GN=GSCOC_T00036974001 PE=3 SV=1
+Peptidyl-prolyl cis-trans isomerase OS=Coffea canephora GN=46C02.10 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_140 OS=Coffea canephora GN=GSCOC_T00005310001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1910 OS=Coffea canephora GN=GSCOC_T00000298001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_52 OS=Coffea canephora GN=GSCOC_T00033327001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014676001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022823001 PE=4 SV=1
+Aldose 1-epimerase OS=Coffea canephora GN=GSCOC_T00039535001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_43 OS=Coffea canephora GN=GSCOC_T00030820001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041521001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016062001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_148 OS=Coffea canephora GN=GSCOC_T00000662001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1147 OS=Coffea canephora GN=GSCOC_T00013265001 PE=4 SV=1
+Purple acid phosphatase OS=Coffea canephora GN=GSCOC_T00043120001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021127001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014413001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_37 OS=Coffea canephora GN=GSCOC_T00028587001 PE=4 SV=1
+Eukaryotic translation initiation factor 3 subunit K OS=Coffea canephora GN=GSCOC_T00041504001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_112 OS=Coffea canephora GN=GSCOC_T00016767001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014523001 PE=4 SV=1
+Peroxidase OS=Coffea canephora GN=GSCOC_T00023239001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021426001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_100 OS=Coffea canephora GN=GSCOC_T00015384001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022397001 PE=4 SV=1
+Pyruvate dehydrogenase E1 component subunit alpha OS=Coffea canephora GN=GSCOC_T00027639001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00025826001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029068001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026000001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_6 OS=Coffea canephora GN=GSCOC_T00034385001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_22 OS=Coffea canephora GN=GSCOC_T00023442001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_94 OS=Coffea canephora GN=GSCOC_T00042523001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_52 OS=Coffea canephora GN=GSCOC_T00033266001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00036564001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_6 OS=Coffea canephora GN=GSCOC_T00034607001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1455 OS=Coffea canephora GN=GSCOC_T00006213001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_38 OS=Coffea canephora GN=GSCOC_T00028744001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_75 OS=Coffea canephora GN=GSCOC_T00038381001 PE=3 SV=1
+Glyceraldehyde-3-phosphate dehydrogenase OS=Coffea canephora GN=GSCOC_T00019117001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_123 OS=Coffea canephora GN=GSCOC_T00018227001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_285 OS=Coffea canephora GN=GSCOC_T00000134001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039446001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_55 OS=Coffea canephora GN=GSCOC_T00033825001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_135 OS=Coffea canephora GN=GSCOC_T00019245001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029886001 PE=3 SV=1
+Xylose isomerase OS=Coffea canephora GN=GSCOC_T00041367001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014754001 PE=4 SV=1
+Glutamate decarboxylase OS=Coffea canephora GN=GSCOC_T00036815001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_180 OS=Coffea canephora GN=GSCOC_T00003937001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_87 OS=Coffea canephora GN=GSCOC_T00041107001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00025785001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016445001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_59 OS=Coffea canephora GN=GSCOC_T00034179001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021353001 PE=4 SV=1
+Proteasome subunit alpha type OS=Coffea canephora GN=GSCOC_T00014110001 PE=3 SV=1
+40S ribosomal protein S27 OS=Coffea canephora GN=GSCOC_T00001045001 PE=3 SV=1
+N-acetyl-gamma-glutamyl-phosphate reductase OS=Coffea canephora GN=GSCOC_T00018557001 PE=3 SV=1
+Eukaryotic translation initiation factor 6 OS=Coffea canephora GN=EIF6 PE=3 SV=1
+Eukaryotic translation initiation factor 6 OS=Coffea canephora GN=EIF6 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021235001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_31 OS=Coffea canephora GN=GSCOC_T00026974001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_96 OS=Coffea canephora GN=GSCOC_T00042852001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039379001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_74 OS=Coffea canephora GN=GSCOC_T00038034001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_632 OS=Coffea canephora GN=GSCOC_T00010732001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014659001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_112 OS=Coffea canephora GN=GSCOC_T00016843001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_115 OS=Coffea canephora GN=GSCOC_T00017016001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_144 OS=Coffea canephora GN=GSCOC_T00005049001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00036989001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041925001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_41 OS=Coffea canephora GN=GSCOC_T00030384001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_98 OS=Coffea canephora GN=GSCOC_T00043102001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039845001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039672001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_41 OS=Coffea canephora GN=GSCOC_T00030347001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_285 OS=Coffea canephora GN=GSCOC_T00000135001 PE=3 SV=1
+Alpha-galactosidase OS=Coffea canephora GN=GSCOC_T00039059001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00036817001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_816 (Fragment) OS=Coffea canephora GN=GSCOC_T00010613001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1200 OS=Coffea canephora GN=GSCOC_T00005500001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029827001 PE=3 SV=1
+Peptidyl-prolyl cis-trans isomerase OS=Coffea canephora GN=GSCOC_T00014732001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021342001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_72 OS=Coffea canephora GN=GSCOC_T00037772001 PE=4 SV=1
+Cysteine synthase OS=Coffea canephora GN=GSCOC_T00026660001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026084001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026013001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_278 OS=Coffea canephora GN=GSCOC_T00002685001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029148001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_51 OS=Coffea canephora GN=GSCOC_T00033066001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00020301001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5161 OS=Coffea canephora GN=GSCOC_T00012261001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_53 OS=Coffea canephora GN=GSCOC_T00033358001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_98 OS=Coffea canephora GN=GSCOC_T00043048001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_62 OS=Coffea canephora GN=GSCOC_T00035447001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_55 OS=Coffea canephora GN=GSCOC_T00033615001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_6 OS=Coffea canephora GN=GSCOC_T00034889001 PE=3 SV=1
+Citrate synthase OS=Coffea canephora GN=GSCOC_T00025005001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022048001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_38 OS=Coffea canephora GN=GSCOC_T00028865001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00037056001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_859 OS=Coffea canephora GN=GSCOC_T00001123001 PE=4 SV=1
+Protein disulfide-isomerase OS=Coffea canephora GN=GSCOC_T00031889001 PE=3 SV=1
+Peptidyl-prolyl cis-trans isomerase OS=Coffea canephora GN=GSCOC_T00038291001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026090001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_719 OS=Coffea canephora GN=GSCOC_T00002618001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_12 OS=Coffea canephora GN=GSCOC_T00017687001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022802001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_40 OS=Coffea canephora GN=GSCOC_T00030078001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_26 OS=Coffea canephora GN=GSCOC_T00024887001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_90 OS=Coffea canephora GN=GSCOC_T00042074001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_219 OS=Coffea canephora GN=GSCOC_T00011798001 PE=3 SV=1
+Lysine--tRNA ligase OS=Coffea canephora GN=GSCOC_T00027231001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_673 OS=Coffea canephora GN=GSCOC_T00013525001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_24 OS=Coffea canephora GN=GSCOC_T00023946001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_51 OS=Coffea canephora GN=GSCOC_T00033076001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_62 OS=Coffea canephora GN=GSCOC_T00035595001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_81 OS=Coffea canephora GN=GSCOC_T00040653001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_27 OS=Coffea canephora GN=GSCOC_T00025100001 PE=4 SV=1
+Ubiquitin carboxyl-terminal hydrolase OS=Coffea canephora GN=GSCOC_T00021145001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_68 OS=Coffea canephora GN=GSCOC_T00036255001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_68 OS=Coffea canephora GN=GSCOC_T00036257001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_26 OS=Coffea canephora GN=GSCOC_T00024733001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_135 OS=Coffea canephora GN=GSCOC_T00019244001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_25 OS=Coffea canephora GN=GSCOC_T00024369001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_30 OS=Coffea canephora GN=GSCOC_T00026856001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_30 OS=Coffea canephora GN=GSCOC_T00026858001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_48 OS=Coffea canephora GN=GSCOC_T00031723001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014414001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00040298001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_26 OS=Coffea canephora GN=GSCOC_T00024551001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_70 OS=Coffea canephora GN=GSCOC_T00037280001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_112 OS=Coffea canephora GN=GSCOC_T00016877001 PE=3 SV=1
+Adenylosuccinate synthetase, chloroplastic OS=Coffea canephora GN=PURA PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_41 OS=Coffea canephora GN=GSCOC_T00030513001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032209001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_31 OS=Coffea canephora GN=GSCOC_T00027184001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_293 OS=Coffea canephora GN=GSCOC_T00006042001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039553001 PE=3 SV=1
+Proliferating cell nuclear antigen OS=Coffea canephora GN=GSCOC_T00028347001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016031001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022622001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_40 OS=Coffea canephora GN=GSCOC_T00030020001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00015912001 PE=3 SV=1
+Beta-hexosaminidase OS=Coffea canephora GN=GSCOC_T00024976001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_124 OS=Coffea canephora GN=GSCOC_T00018261001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_26 OS=Coffea canephora GN=GSCOC_T00024853001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_385 OS=Coffea canephora GN=GSCOC_T00000291001 PE=3 SV=1
+Triosephosphate isomerase OS=Coffea canephora GN=GSCOC_T00028243001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026574001 PE=3 SV=1
+Pectinesterase OS=Coffea canephora GN=GSCOC_T00021691001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_81 OS=Coffea canephora GN=GSCOC_T00040520001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00020155001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022847001 PE=4 SV=1
+Pectinesterase OS=Coffea canephora GN=GSCOC_T00000679001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016246001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_855 OS=Coffea canephora GN=GSCOC_T00013752001 PE=4 SV=1
+Mitochondrial Rho GTPase OS=Coffea canephora GN=GSCOC_T00015378001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039978001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_12 OS=Coffea canephora GN=GSCOC_T00017911001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_22 OS=Coffea canephora GN=GSCOC_T00023226001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021230001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_22 OS=Coffea canephora GN=GSCOC_T00023584001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_6 OS=Coffea canephora GN=GSCOC_T00034605001 PE=4 SV=1
+Elongation factor Tu OS=Coffea canephora GN=GSCOC_T00012547001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00036827001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_36 OS=Coffea canephora GN=GSCOC_T00028239001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041718001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_55 OS=Coffea canephora GN=GSCOC_T00033723001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_55 OS=Coffea canephora GN=GSCOC_T00033726001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039514001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_172 OS=Coffea canephora GN=GSCOC_T00013191001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_94 OS=Coffea canephora GN=GSCOC_T00042534001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_344 OS=Coffea canephora GN=GSCOC_T00002111001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00013902001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00021847001 PE=4 SV=1
+ATP-dependent Clp protease proteolytic subunit OS=Coffea canephora GN=GSCOC_T00004973001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_43 OS=Coffea canephora GN=GSCOC_T00030903001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_12 OS=Coffea canephora GN=GSCOC_T00017849001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_556 OS=Coffea canephora GN=GSCOC_T00007005001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_13 OS=Coffea canephora GN=GSCOC_T00018773001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029762001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014125001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_118 OS=Coffea canephora GN=GSCOC_T00017270001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00020248001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029823001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_49 OS=Coffea canephora GN=GSCOC_T00031899001 PE=4 SV=1
+Ubiquitin carboxyl-terminal hydrolase OS=Coffea canephora GN=GSCOC_T00016538001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026280001 PE=3 SV=1
+Malic enzyme OS=Coffea canephora GN=GSCOC_T00027985001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_71 OS=Coffea canephora GN=GSCOC_T00037615001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014498001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_135 OS=Coffea canephora GN=GSCOC_T00019174001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014327001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_95 OS=Coffea canephora GN=GSCOC_T00042674001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029646001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_80 OS=Coffea canephora GN=GSCOC_T00040487001 PE=4 SV=1
+Glucose-6-phosphate 1-dehydrogenase OS=Coffea canephora GN=GSCOC_T00042845001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041412001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_814 OS=Coffea canephora GN=GSCOC_T00005204001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021012001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_25 OS=Coffea canephora GN=GSCOC_T00024381001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014638001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_98 OS=Coffea canephora GN=GSCOC_T00043171001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029848001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_22 OS=Coffea canephora GN=GSCOC_T00023706001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_22 OS=Coffea canephora GN=GSCOC_T00023578001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00025675001 PE=4 SV=1
+L-lactate dehydrogenase OS=Coffea canephora GN=GSCOC_T00030441001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00015972001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_27 OS=Coffea canephora GN=GSCOC_T00025101001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014766001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00021979001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_78 OS=Coffea canephora GN=GSCOC_T00038985001 PE=3 SV=1
+Nascent polypeptide-associated complex subunit beta OS=Coffea canephora GN=GSCOC_T00007428001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_24 OS=Coffea canephora GN=GSCOC_T00023901001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_12 OS=Coffea canephora GN=GSCOC_T00017517001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_45 OS=Coffea canephora GN=GSCOC_T00031353001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_55 OS=Coffea canephora GN=GSCOC_T00033736001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1269 OS=Coffea canephora GN=GSCOC_T00011431001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014542001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_36 OS=Coffea canephora GN=GSCOC_T00028479001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_36 OS=Coffea canephora GN=GSCOC_T00028238001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_148 OS=Coffea canephora GN=GSCOC_T00000711001 PE=4 SV=1
+Annexin OS=Coffea canephora GN=GSCOC_T00003067001 PE=3 SV=1
+Glutathione peroxidase OS=Coffea canephora GN=GSCOC_T00004285001 PE=3 SV=1
+ATP-dependent Clp protease proteolytic subunit OS=Coffea canephora GN=GSCOC_T00042456001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_78 OS=Coffea canephora GN=GSCOC_T00039134001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_187 OS=Coffea canephora GN=GSCOC_T00011892001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029951001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021524001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_6 OS=Coffea canephora GN=GSCOC_T00034453001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_68 OS=Coffea canephora GN=GSCOC_T00036268001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_44 OS=Coffea canephora GN=GSCOC_T00031012001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_14 OS=Coffea canephora GN=GSCOC_T00019512001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041982001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_43 OS=Coffea canephora GN=GSCOC_T00030713001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032909001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_43 OS=Coffea canephora GN=GSCOC_T00030715001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029597001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026137001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_76 OS=Coffea canephora GN=GSCOC_T00038687001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2738 OS=Coffea canephora GN=GSCOC_T00002270001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_87 OS=Coffea canephora GN=GSCOC_T00041064001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021351001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021350001 PE=4 SV=1
+DNA replication complex GINS protein PSF2 OS=Coffea canephora GN=GSCOC_T00029889001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039605001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016440001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_415 OS=Coffea canephora GN=GSCOC_T00011537001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021139001 PE=4 SV=1
+Glutamate receptor OS=Coffea canephora GN=GSCOC_T00041351001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032599001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_26 OS=Coffea canephora GN=GSCOC_T00024721001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_43 OS=Coffea canephora GN=GSCOC_T00030898001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_39 OS=Coffea canephora GN=GSCOC_T00028904001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_41 OS=Coffea canephora GN=GSCOC_T00030252001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_139 OS=Coffea canephora GN=GSCOC_T00019481001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_26 OS=Coffea canephora GN=GSCOC_T00024827001 PE=4 SV=1
+40S ribosomal protein S12 OS=Coffea canephora GN=GSCOC_T00022242001 PE=3 SV=1
+Proteasome subunit beta type OS=Coffea canephora GN=GSCOC_T00037180001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_24 OS=Coffea canephora GN=GSCOC_T00024074001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014135001 PE=4 SV=1
+Serine hydroxymethyltransferase OS=Coffea canephora GN=GSCOC_T00040156001 PE=3 SV=1
+Serine hydroxymethyltransferase OS=Coffea canephora GN=GSCOC_T00001641001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_75 OS=Coffea canephora GN=GSCOC_T00038401001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_46 OS=Coffea canephora GN=GSCOC_T00031437001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_76 OS=Coffea canephora GN=GSCOC_T00038832001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_36 OS=Coffea canephora GN=GSCOC_T00028422001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_181 OS=Coffea canephora GN=GSCOC_T00009443001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1665 OS=Coffea canephora GN=GSCOC_T00000021001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_180 OS=Coffea canephora GN=GSCOC_T00003852001 PE=4 SV=1
+Cysteine synthase OS=Coffea canephora GN=GSCOC_T00026083001 PE=3 SV=1
+Pectinesterase OS=Coffea canephora GN=GSCOC_T00029390001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016537001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_68 OS=Coffea canephora GN=GSCOC_T00036265001 PE=4 SV=1
+Defective in cullin neddylation protein OS=Coffea canephora GN=GSCOC_T00038552001 PE=4 SV=1
+Peptidyl-prolyl cis-trans isomerase OS=Coffea canephora GN=GSCOC_T00024643001 PE=3 SV=1
+Proteasome subunit alpha type OS=Coffea canephora GN=GSCOC_T00011364001 PE=3 SV=1
+A0A068VIU7|A0A068VIU7_COFCA-R
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026077001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_112 OS=Coffea canephora GN=GSCOC_T00016848001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00019950001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00019953001 PE=4 SV=1
+Annexin OS=Coffea canephora GN=GSCOC_T00034540001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_56 OS=Coffea canephora GN=GSCOC_T00033855001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_183 OS=Coffea canephora GN=GSCOC_T00013173001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_135 OS=Coffea canephora GN=GSCOC_T00019163001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022121001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4764 OS=Coffea canephora GN=GSCOC_T00011726001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1329 OS=Coffea canephora GN=GSCOC_T00005681001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_81 OS=Coffea canephora GN=GSCOC_T00040607001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041704001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_46 OS=Coffea canephora GN=GSCOC_T00031490001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_61 OS=Coffea canephora GN=GSCOC_T00035311001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_61 OS=Coffea canephora GN=GSCOC_T00035310001 PE=4 SV=1
+Elongation factor Tu OS=Coffea canephora GN=GSCOC_T00016006001 PE=3 SV=1
+Obg-like ATPase 1 OS=Coffea canephora GN=GSCOC_T00003770001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014497001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022342001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_52 OS=Coffea canephora GN=GSCOC_T00033194001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029229001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_36 OS=Coffea canephora GN=GSCOC_T00028172001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_619 OS=Coffea canephora GN=GSCOC_T00007372001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_256 OS=Coffea canephora GN=GSCOC_T00012414001 PE=3 SV=1
+Ubiquitin carboxyl-terminal hydrolase OS=Coffea canephora GN=GSCOC_T00030561001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_74 OS=Coffea canephora GN=GSCOC_T00038154001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3887 OS=Coffea canephora GN=GSCOC_T00013679001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00036581001 PE=3 SV=1
+Carboxypeptidase OS=Coffea canephora GN=GSCOC_T00029405001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00036518001 PE=4 SV=1
+Histone H3 OS=Coffea canephora GN=GSCOC_T00010184001 PE=3 SV=1
+Histone H3 OS=Coffea canephora GN=GSCOC_T00025071001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032148001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_76 OS=Coffea canephora GN=GSCOC_T00038606001 PE=3 SV=1
+Protein disulfide-isomerase OS=Coffea canephora GN=GSCOC_T00017717001 PE=3 SV=1
+Sucrose synthase (Fragment) OS=Coffea canephora GN=SS2 PE=2 SV=1
+Sucrose synthase OS=Coffea canephora GN=GSCOC_T00005027001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_78 OS=Coffea canephora GN=GSCOC_T00039050001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_47 OS=Coffea canephora GN=GSCOC_T00031703001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029262001 PE=4 SV=1
+A0A068UYT2|A0A068UYT2_COFCA-R
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026173001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026589001 PE=4 SV=1
+Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48 kDa subunit OS=Coffea canephora GN=GSCOC_T00040302001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00019999001 PE=4 SV=1
+Clathrin heavy chain OS=Coffea canephora GN=GSCOC_T00039151001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022102001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041972001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00025976001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041853001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014336001 PE=3 SV=1
+Importin subunit alpha OS=Coffea canephora GN=GSCOC_T00025724001 PE=3 SV=1
+Importin subunit alpha OS=Coffea canephora GN=GSCOC_T00025723001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014694001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00015010001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_78 OS=Coffea canephora GN=GSCOC_T00039200001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_80 OS=Coffea canephora GN=GSCOC_T00040482001 PE=4 SV=1
+Coatomer subunit alpha OS=Coffea canephora GN=GSCOC_T00024718001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_622 OS=Coffea canephora GN=GSCOC_T00004163001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_46 OS=Coffea canephora GN=GSCOC_T00031496001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_62 OS=Coffea canephora GN=GSCOC_T00035568001 PE=3 SV=1
+Phosphoglycerate kinase OS=Coffea canephora GN=GSCOC_T00038573001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_43 OS=Coffea canephora GN=GSCOC_T00030712001 PE=4 SV=1
+Pyruvate dehydrogenase E1 component subunit alpha OS=Coffea canephora GN=GSCOC_T00032116001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021030001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026569001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032066001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016476001 PE=4 SV=1
+Acyl-coenzyme A oxidase OS=Coffea canephora GN=GSCOC_T00016797001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_16 OS=Coffea canephora GN=GSCOC_T00020687001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_415 OS=Coffea canephora GN=GSCOC_T00011528001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4932 OS=Coffea canephora GN=GSCOC_T00006497001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_230 OS=Coffea canephora GN=GSCOC_T00013590001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_180 OS=Coffea canephora GN=GSCOC_T00003882001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_36 OS=Coffea canephora GN=GSCOC_T00028060001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_252 OS=Coffea canephora GN=GSCOC_T00007427001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4500 OS=Coffea canephora GN=GSCOC_T00003233001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_44 OS=Coffea canephora GN=GSCOC_T00031050001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021115001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_6 OS=Coffea canephora GN=GSCOC_T00034689001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_43 OS=Coffea canephora GN=GSCOC_T00030830001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_6407 OS=Coffea canephora GN=GSCOC_T00001059001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_6 OS=Coffea canephora GN=GSCOC_T00034509001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4730 OS=Coffea canephora GN=GSCOC_T00010586001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022433001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_22 OS=Coffea canephora GN=GSCOC_T00023214001 PE=4 SV=1
+Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1 OS=Coffea canephora GN=GSCOC_T00024485001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_26 OS=Coffea canephora GN=GSCOC_T00024767001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_45 OS=Coffea canephora GN=GSCOC_T00031176001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_14 OS=Coffea canephora GN=GSCOC_T00019601001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_142 OS=Coffea canephora GN=GSCOC_T00011351001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00037093001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00021807001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1379 OS=Coffea canephora GN=GSCOC_T00000097001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_6 OS=Coffea canephora GN=GSCOC_T00034681001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_511 OS=Coffea canephora GN=GSCOC_T00003814001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_70 OS=Coffea canephora GN=GSCOC_T00037272001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_53 OS=Coffea canephora GN=GSCOC_T00033339001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041325001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_74 OS=Coffea canephora GN=GSCOC_T00038240001 PE=4 SV=1
+Acyl-coenzyme A oxidase OS=Coffea canephora GN=GSCOC_T00030520001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_78 OS=Coffea canephora GN=GSCOC_T00039237001 PE=4 SV=1
+Acyl-[acyl-carrier-protein] desaturase OS=Coffea canephora GN=GSCOC_T00017465001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014669001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_6 OS=Coffea canephora GN=GSCOC_T00034942001 PE=4 SV=1
+Beta-hexosaminidase OS=Coffea canephora GN=GSCOC_T00029790001 PE=3 SV=1
+Lon protease homolog, mitochondrial OS=Coffea canephora GN=GSCOC_T00011810001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_288 OS=Coffea canephora GN=GSCOC_T00005559001 PE=3 SV=1
+Alpha-1,4 glucan phosphorylase OS=Coffea canephora GN=GSCOC_T00028354001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_135 OS=Coffea canephora GN=GSCOC_T00019119001 PE=4 SV=1
+Eukaryotic translation initiation factor 3 subunit B OS=Coffea canephora GN=GSCOC_T00012130001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022779001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_183 OS=Coffea canephora GN=GSCOC_T00013171001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_183 OS=Coffea canephora GN=GSCOC_T00013169001 PE=3 SV=1
+3-isopropylmalate dehydrogenase OS=Coffea canephora GN=GSCOC_T00025441001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_43 OS=Coffea canephora GN=GSCOC_T00030748001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_12 OS=Coffea canephora GN=GSCOC_T00017883001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022699001 PE=4 SV=1
+Superoxide dismutase [Cu-Zn] OS=Coffea canephora GN=GSCOC_T00012962001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_30 OS=Coffea canephora GN=GSCOC_T00026851001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041526001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_118 OS=Coffea canephora GN=GSCOC_T00017241001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_30 OS=Coffea canephora GN=GSCOC_T00026669001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00019812001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041450001 PE=4 SV=1
+Proteasome subunit alpha type OS=Coffea canephora GN=GSCOC_T00041551001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00040037001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016536001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_21 OS=Coffea canephora GN=GSCOC_T00023081001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_41 OS=Coffea canephora GN=GSCOC_T00030237001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_26 OS=Coffea canephora GN=GSCOC_T00024484001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029831001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_47 OS=Coffea canephora GN=GSCOC_T00031648001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_23 OS=Coffea canephora GN=GSCOC_T00023792001 PE=4 SV=1
+Glucose-6-phosphate isomerase OS=Coffea canephora GN=GSCOC_T00024811001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016324001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00025690001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_22 OS=Coffea canephora GN=GSCOC_T00023274001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014920001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022339001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_26 OS=Coffea canephora GN=GSCOC_T00024917001 PE=3 SV=1
+T-complex protein 1 subunit gamma OS=Coffea canephora GN=GSCOC_T00033422001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_218 OS=Coffea canephora GN=GSCOC_T00007087001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_117 OS=Coffea canephora GN=GSCOC_T00017148001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022708001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_24 OS=Coffea canephora GN=GSCOC_T00023957001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00019945001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_31 OS=Coffea canephora GN=GSCOC_T00027002001 PE=4 SV=1
+Alpha-1,4 glucan phosphorylase OS=Coffea canephora GN=GSCOC_T00039653001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_27 OS=Coffea canephora GN=GSCOC_T00025149001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_45 OS=Coffea canephora GN=GSCOC_T00031280001 PE=3 SV=1
+Pyruvate kinase OS=Coffea canephora GN=GSCOC_T00043031001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022633001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_219 OS=Coffea canephora GN=GSCOC_T00011789001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_18 OS=Coffea canephora GN=GSCOC_T00020943001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_27 OS=Coffea canephora GN=GSCOC_T00024991001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014484001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_16 OS=Coffea canephora GN=GSCOC_T00020545001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_16 OS=Coffea canephora GN=GSCOC_T00020547001 PE=3 SV=1
+Polyadenylate-binding protein OS=Coffea canephora GN=GSCOC_T00014467001 PE=3 SV=1
+Polyadenylate-binding protein OS=Coffea canephora GN=GSCOC_T00014465001 PE=3 SV=1
+Chorismate synthase OS=Coffea canephora GN=GSCOC_T00017730001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00019843001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_57 OS=Coffea canephora GN=GSCOC_T00034053001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_44 OS=Coffea canephora GN=GSCOC_T00030966001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_55 OS=Coffea canephora GN=GSCOC_T00033755001 PE=4 SV=1
+Branched-chain-amino-acid aminotransferase OS=Coffea canephora GN=GSCOC_T00040100001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_76 OS=Coffea canephora GN=GSCOC_T00038544001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014641001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_354 OS=Coffea canephora GN=GSCOC_T00009382001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022190001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_45 OS=Coffea canephora GN=GSCOC_T00031218001 PE=3 SV=1
+Catalase OS=Coffea canephora GN=GSCOC_T00024513001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_253 OS=Coffea canephora GN=GSCOC_T00010770001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_43 OS=Coffea canephora GN=GSCOC_T00030800001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_181 OS=Coffea canephora GN=GSCOC_T00009438001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016269001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032149001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_148 OS=Coffea canephora GN=GSCOC_T00000654001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00016454001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1288 OS=Coffea canephora GN=GSCOC_T00011981001 PE=4 SV=1
+Coatomer subunit beta OS=Coffea canephora GN=GSCOC_T00031372001 PE=4 SV=1
+Coatomer subunit gamma OS=Coffea canephora GN=GSCOC_T00014285001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_168 (Fragment) OS=Coffea canephora GN=GSCOC_T00011082001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026615001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_256 OS=Coffea canephora GN=GSCOC_T00012403001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041327001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029288001 PE=4 SV=1
+Carboxypeptidase OS=Coffea canephora GN=GSCOC_T00041247001 PE=3 SV=1
+Acyl carrier protein OS=Coffea canephora GN=GSCOC_T00025887001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_7 OS=Coffea canephora GN=GSCOC_T00037123001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_75 OS=Coffea canephora GN=GSCOC_T00038462001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_6 OS=Coffea canephora GN=GSCOC_T00034544001 PE=4 SV=1
+ATP-dependent 6-phosphofructokinase OS=Coffea canephora GN=PFK PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4832 OS=Coffea canephora GN=GSCOC_T00003284001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_74 OS=Coffea canephora GN=GSCOC_T00038227001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_4 OS=Coffea canephora GN=GSCOC_T00029897001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_43 OS=Coffea canephora GN=GSCOC_T00030819001 PE=3 SV=1
+Adenosylhomocysteinase OS=Coffea canephora GN=GSCOC_T00033270001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_87 OS=Coffea canephora GN=GSCOC_T00041019001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_45 OS=Coffea canephora GN=GSCOC_T00031125001 PE=4 SV=1
+Ribosomal protein OS=Coffea canephora GN=GSCOC_T00043137001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_193 OS=Coffea canephora GN=GSCOC_T00007205001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00039411001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_87 OS=Coffea canephora GN=GSCOC_T00041080001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_148 OS=Coffea canephora GN=GSCOC_T00000675001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_74 OS=Coffea canephora GN=GSCOC_T00038224001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00025970001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_99 OS=Coffea canephora GN=GSCOC_T00043235001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_62 OS=Coffea canephora GN=GSCOC_T00035443001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_129 OS=Coffea canephora GN=GSCOC_T00018513001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00025625001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_323 OS=Coffea canephora GN=GSCOC_T00001037001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014474001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_35 OS=Coffea canephora GN=GSCOC_T00028012001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_11 OS=Coffea canephora GN=GSCOC_T00015897001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032908001 PE=3 SV=1
+Purple acid phosphatase OS=Coffea canephora GN=GSCOC_T00035663001 PE=3 SV=1
+Protein argonaute OS=Coffea canephora GN=GSCOC_T00022764001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_181 OS=Coffea canephora GN=GSCOC_T00009449001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_56 OS=Coffea canephora GN=GSCOC_T00033915001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00014108001 PE=3 SV=1
+Pyruvate kinase OS=Coffea canephora GN=GSCOC_T00012404001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_19 OS=Coffea canephora GN=GSCOC_T00021264001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_45 OS=Coffea canephora GN=GSCOC_T00031149001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_59 OS=Coffea canephora GN=GSCOC_T00034120001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_12 OS=Coffea canephora GN=GSCOC_T00017792001 PE=4 SV=1
+Glucose-6-phosphate 1-dehydrogenase OS=Coffea canephora GN=GSCOC_T00019113001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_5 OS=Coffea canephora GN=GSCOC_T00032645001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00020127001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_3 OS=Coffea canephora GN=GSCOC_T00026268001 PE=3 SV=1
+Peroxidase OS=Coffea canephora GN=GSCOC_T00018962001 PE=3 SV=1
+Peroxidase OS=Coffea canephora GN=GSCOC_T00025890001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_42 OS=Coffea canephora GN=GSCOC_T00030598001 PE=3 SV=1
+Non-specific lipid-transfer protein OS=Coffea canephora GN=GSCOC_T00040460001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_101 OS=Coffea canephora GN=GSCOC_T00015444001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_9 OS=Coffea canephora GN=GSCOC_T00041899001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_22 OS=Coffea canephora GN=GSCOC_T00023410001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00015124001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_90 OS=Coffea canephora GN=GSCOC_T00042085001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_44 OS=Coffea canephora GN=GSCOC_T00031032001 PE=4 SV=1
+Thioredoxin reductase OS=Coffea canephora GN=GSCOC_T00036904001 PE=3 SV=1
+Eukaryotic translation initiation factor 3 subunit I OS=Coffea canephora GN=GSCOC_T00002161001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_219 OS=Coffea canephora GN=GSCOC_T00011799001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_22 OS=Coffea canephora GN=GSCOC_T00023316001 PE=3 SV=1
+Malate dehydrogenase OS=Coffea canephora GN=GSCOC_T00026310001 PE=3 SV=1
+Pyruvate kinase OS=Coffea canephora GN=GSCOC_T00037700001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_1 OS=Coffea canephora GN=GSCOC_T00015034001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00019857001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00020114001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_71 OS=Coffea canephora GN=GSCOC_T00037502001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_8 OS=Coffea canephora GN=GSCOC_T00040109001 PE=3 SV=1
+Caffeic acid 3-O-methyltransferase OS=Coffea canephora PE=2 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_15 OS=Coffea canephora GN=GSCOC_T00019870001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_2 OS=Coffea canephora GN=GSCOC_T00022063001 PE=3 SV=1
+Malate synthase OS=Coffea canephora GN=GSCOC_T00042543001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_40 OS=Coffea canephora GN=GSCOC_T00030079001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_62 OS=Coffea canephora GN=GSCOC_T00035551001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_36 OS=Coffea canephora GN=GSCOC_T00028371001 PE=3 SV=1
+Lipoxygenase OS=Coffea canephora GN=GSCOC_T00038212001 PE=3 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_412 OS=Coffea canephora GN=GSCOC_T00012830001 PE=4 SV=1
+Coffea canephora DH200=94 genomic scaffold, scaffold_136 OS=Coffea canephora GN=GSCOC_T00019259001 PE=4 SV=1
